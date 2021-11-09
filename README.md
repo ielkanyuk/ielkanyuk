@@ -1,4 +1,17 @@
-### Hi there 👋
+Hi there 👋
+-
+
+I am Igor, and I a frontend-developer.
+
+🔭 I’m currently working on web products at Blanc Bank
+
+⚡ Favorite technologies: Angular, TypeScript, Nest.js, RxJs
+
+Contacts:
+-
+- Email: ielkanyuk@gmail.com
+- Telegram: https://t.me/IgorElkanyuk 
+  
 
 <!--
 **ielkanyuk/ielkanyuk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
